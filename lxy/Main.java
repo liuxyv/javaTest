@@ -9,6 +9,9 @@ public class Main {
         System.out.println();
         System.out.println("Hello World!lxy");
 
+
+        //niHao();
+        //System.out.println("Hello World!lxy");
     }
 
 }
